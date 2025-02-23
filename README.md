@@ -36,8 +36,6 @@ The Real Estate website provides a user-friendly interface to browse available p
 - **CSS3**
 - **JavaScript**
 
-*(If you are using additional libraries or frameworks such as Bootstrap, jQuery, or any others, please list them here.)*
-
 ## Getting Started
 
 Follow these instructions to get a local copy of the project up and running.
